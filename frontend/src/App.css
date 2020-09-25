@@ -1,0 +1,13 @@
+body {
+  background: rgb(55, 94, 151);
+  background: linear-gradient(
+    176deg,
+    rgba(55, 94, 151, 1) 17%,
+    rgba(217, 153, 138, 1) 46%,
+    rgba(255, 212, 93, 1) 90%,
+    rgba(165, 210, 119, 1) 100%
+  );
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
